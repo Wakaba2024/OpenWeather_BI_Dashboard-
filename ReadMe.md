@@ -95,7 +95,7 @@ These measures drive **card visuals**, **bar charts**, and **tooltips** dynamica
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard_preview.png)
+![Dashboard Screenshot]([assets/dashboard_preview.png](https://github.com/Wakaba2024/OpenWeather_BI_Dashboard-/blob/main/Screenshot%202025-11-11%20101809.png))
 
 **Dashboard Layout**
 - Title: *East Africa Temperature Dashboard*
