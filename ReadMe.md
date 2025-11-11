@@ -95,7 +95,7 @@ These measures drive **card visuals**, **bar charts**, and **tooltips** dynamica
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot]([assets/dashboard_preview.png](https://github.com/Wakaba2024/OpenWeather_BI_Dashboard-/blob/main/Screenshot%202025-11-11%20101809.png))
+![East Africa Weather Dashboard](dashboard_preview.png)
 
 **Dashboard Layout**
 - Title: *East Africa Temperature Dashboard*
@@ -106,11 +106,7 @@ These measures drive **card visuals**, **bar charts**, and **tooltips** dynamica
 
 ---
 
-## 🧩 Challenges Faced
-1. Handling **API rate limits** during multiple data refreshes.  
 
-
----
 
 ## 🧠 Lessons Learned
 - **Power Query functions** are essential for scalable API integrations.  
